@@ -1,0 +1,32 @@
+{
+  "variantId": "terran_wraith_Pressure",
+  "hullId": "terran_wraith",
+  "displayName": "Pressure",
+  "goalVariant": true,
+  "fluxCapacitors": 9,
+  "fluxVents": 10,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "fluxdistributor"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0002": "gravitonbeam"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "annihilator",
+        "WS0003": "annihilator"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

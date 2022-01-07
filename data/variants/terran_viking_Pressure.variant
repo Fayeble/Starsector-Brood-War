@@ -1,0 +1,27 @@
+{
+  "variantId": "terran_viking_Pressure",
+  "hullId": "terran_viking",
+  "displayName": "Pressure",
+  "goalVariant": true,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "blast_doors",
+    "reinforcedhull",
+    "eccm"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "annihilatorpod",
+        "WS0002": "annihilatorpod"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

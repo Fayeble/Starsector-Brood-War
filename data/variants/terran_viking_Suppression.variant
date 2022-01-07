@@ -1,0 +1,27 @@
+{
+  "variantId": "terran_viking_Suppression",
+  "hullId": "terran_viking",
+  "displayName": "Supression",
+  "goalVariant": true,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "blast_doors",
+    "reinforcedhull",
+    "eccm"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "sabotpod",
+        "WS0002": "sabotpod"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
