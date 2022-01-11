@@ -4,7 +4,7 @@
   "hullSize": "CAPITAL_SHIP",
   "spriteName": "graphics/ships/terran_battlecruiser.png",
   "style": "MIDLINE",
-  "coversColor": "`",
+  "coversColor": "",
   "height": 354,
   "width": 306,
   "center": [153, 160],
