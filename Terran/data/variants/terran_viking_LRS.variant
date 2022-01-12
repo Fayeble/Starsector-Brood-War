@@ -1,0 +1,29 @@
+{
+  "variantId": "terran_viking_LRS",
+  "hullId": "terran_viking",
+  "displayName": "Long Range Support",
+  "goalVariant": true,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "blast_doors",
+    "reinforcedhull",
+    "eccm",
+    "targetingunit",
+    "turretgyros"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "pilum",
+        "WS0002": "pilum"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
