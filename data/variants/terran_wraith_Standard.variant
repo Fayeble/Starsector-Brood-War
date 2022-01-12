@@ -3,13 +3,11 @@
   "hullId": "terran_wraith",
   "displayName": "Standard",
   "goalVariant": true,
-  "fluxCapacitors": 8,
+  "fluxCapacitors": 0,
   "fluxVents": 10,
   "quality": 1,
   "permaMods": [],
-  "hullMods": [
-    "fluxdistributor"
-  ],
+  "hullMods": [],
   "weaponGroups": [
     {
       "autofire": false,
@@ -19,11 +17,25 @@
       }
     },
     {
-      "autofire": false,
+      "autofire": true,
       "mode": "ALTERNATING",
       "weapons": {
-        "WS0001": "atropos",
-        "WS0003": "atropos"
+        "WS0001": "annihilator",
+        "WS0003": "annihilator"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0004": "gravitonbeam"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "lightmg"
       }
     }
   ],

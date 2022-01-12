@@ -14,8 +14,7 @@
   "builtInMods": [
     "phasefield",
     "terran_shields",
-    "terran_missiles",
-    "missile_reload"
+    "terran_missiles"
   ],
   "builtInWeapons": {
     "WS0006": "blinker_red",
