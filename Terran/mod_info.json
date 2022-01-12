@@ -1,8 +1,0 @@
-{
-    "id": "sc2",
-    "name": "Terran",
-    "author": "Fayeble",
-    "version": "0.1 prerelease",
-    "description": "Adds a faction mostly based on the Starcraft 2 Terran faction.",
-    "gameVersion": "0.95.1a-RC6",
-}
